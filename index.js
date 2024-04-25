@@ -27,7 +27,7 @@ let shuffledQuestions = [] //empty array to hold shuffled selected questions
 function handleQuestions() { 
     //function to shuffle and push 10 questions to shuffledQuestions array
     while (shuffledQuestions.length <= 9) {
-        const random = questions[Math.floor(Math.random() * questions.length)]
+        let random = questions[Math.floor(Math.random() * questions.length)]
         if (!shuffledQuestions.includes(random)) {
             shuffledQuestions.push(random)
         }
@@ -43,7 +43,7 @@ let indexNumber = 0
 // function for displaying next question in the array to dom
 function NextQuestion(index) {
     handleQuestions()
-    const currentQuestion = shuffledQuestions[index]
+    let currentQuestion = shuffledQuestions[index]
     document.getElementById("question-number").innerHTML = questionNumber
     document.getElementById("player-score").innerHTML = playerScore
     document.getElementById("display-question").innerHTML = currentQuestion.question;
@@ -56,9 +56,9 @@ function NextQuestion(index) {
 
 
 function checkForAnswer() {
-    const currentQuestion = shuffledQuestions[indexNumber] //gets current Question 
-    const currentQuestionAnswer = currentQuestion.correctOption //gets current Question's answer
-    const options = document.getElementsByName("option"); //gets all elements in dom with name of 'option' (in this the radio inputs)
+    let currentQuestion = shuffledQuestions[indexNumber] //gets current Question 
+    let currentQuestionAnswer = currentQuestion.correctOption //gets current Question's answer
+    let options = document.getElementsByName("option"); //gets all elements in dom with name of 'option' (in this the radio inputs)
     let correctOption = null
 
     options.forEach((option) => {
@@ -86,7 +86,7 @@ function checkForAnswer() {
         }
 
         else if (option.checked && option.value !== currentQuestionAnswer) {
-            const wrongLabelId = option.labels[0].id
+            let wrongLabelId = option.labels[0].id
             document.getElementById(wrongLabelId).style.backgroundColor = "red"
             document.getElementById(correctOption).style.backgroundColor = "green"
             wrongAttempt++
@@ -119,7 +119,7 @@ function handleNextQuestion() {
 
 //sets options background back to null after display the right/wrong colors
 function resetOptionBackground() {
-    const options = document.getElementsByName("option");
+    let options = document.getElementsByName("option");
     options.forEach((option) => {
         document.getElementById(option.labels[0].id).style.backgroundColor = ""
     })
@@ -127,7 +127,7 @@ function resetOptionBackground() {
 
 // unchecking all radio buttons for next question(can be done with map or foreach loop also)
 function unCheckRadioButtons() {
-    const options = document.getElementsByName("option");
+    let options = document.getElementsByName("option");
     for (let i = 0; i < options.length; i++) {
         options[i].checked = false;
     }
@@ -151,7 +151,7 @@ function handleEndGame() {
         remark = "Excellent, Keep the good work going."
         remarkColor = "green"
     }
-    const playerGrade = (playerScore / 10) * 100
+    let playerGrade = (playerScore / 10) * 100
 
     //data to display to score board
     document.getElementById('remarks').innerHTML = remark
