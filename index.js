@@ -14,7 +14,7 @@ function fetchJSONData() {
                     questions = data.qlist;
                     //alert(data.users[0].site);
                     //console.log(data);
-                }
+                })
                 .catch((error) => 
                        console.error("Unable to fetch data:", error));
         }
