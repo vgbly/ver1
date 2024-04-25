@@ -7,7 +7,7 @@
          "optionB": "14 days",
          "optionC": "5 days",
          "optionD": "7 days",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -16,7 +16,7 @@
          "optionB": "11 players",
          "optionC": "9 players",
          "optionD": "12 players",
-         "correctOption": " "optionB""
+           "correctOption": "optionB"
     },
 
     {
@@ -25,7 +25,7 @@
          "optionB": "Barack Obama",
          "optionC": "Abraham Lincoln",
          "optionD": "George Washington",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -34,7 +34,7 @@
          "optionB": "December",
          "optionC": "June",
          "optionD": "August",
-         "correctOption": " "optionC""
+           "correctOption": "optionC"
     },
 
     {
@@ -43,7 +43,7 @@
          "optionB": "38 hours",
          "optionC": "48 hours",
          "optionD": "24 hours",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -52,7 +52,7 @@
          "optionB": "Long River",
          "optionC": "River Niger",
          "optionD": "Lake Chad",
-         "correctOption": " "optionA""
+           "correctOption": "optionA"
     },
 
     {
@@ -61,7 +61,7 @@
          "optionB": "Antarctica",
          "optionC": "Africa",
          "optionD": "North America",
-         "correctOption": " "optionC""
+           "correctOption": "optionC"
     },
 
     {
@@ -70,7 +70,7 @@
          "optionB": "Canada",
          "optionC": "Africa",
          "optionD": "Egypt",
-         "correctOption": " "optionA""
+           "correctOption": "optionA"
     },
 
     {
@@ -79,7 +79,7 @@
          "optionB": "Twelve",
          "optionC": "Eight",
          "optionD": "Eleven",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -88,7 +88,7 @@
          "optionB": "Bill Gates",
          "optionC": "Chris Brown",
          "optionD": "John Cena",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -97,7 +97,7 @@
          "optionB": "California",
          "optionC": "Dubai",
          "optionD": "Italy",
-         "correctOption": " "optionC""
+           "correctOption": "optionC"
     },
 
     {
@@ -106,7 +106,7 @@
          "optionB": "River Mersey",
          "optionC": "River Trent",
          "optionD": "River Tweed",
-         "correctOption": " "optionA""
+           "correctOption": "optionA"
     },
 
 
@@ -116,7 +116,7 @@
          "optionB": "42",
          "optionC": "40",
          "optionD": "36",
-         "correctOption": " "optionB""
+           "correctOption": "optionB"
     },
 
     {
@@ -125,7 +125,7 @@
          "optionB": "Brazil",
          "optionC": "Germany",
          "optionD": "France",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -134,7 +134,7 @@
          "optionB": "California",
          "optionC": "New Jersey",
          "optionD": "Los Angeles",
-         "correctOption": " "optionA""
+           "correctOption": "optionA"
     },
 
     {
@@ -143,7 +143,7 @@
          "optionB": "30",
          "optionC": "36",
          "optionD": "37",
-         "correctOption": " "optionC""
+           "correctOption": "optionC"
     },
 
     {
@@ -152,7 +152,7 @@
          "optionB": "Lagos",
          "optionC": "Calabar",
          "optionD": "Kano",
-         "correctOption": " "optionA""
+           "correctOption": "optionA"
     },
 
     {
@@ -161,7 +161,7 @@
          "optionB": "Shining city",
          "optionC": "City of Angels",
          "optionD": "Lost Angels",
-         "correctOption": " "optionC""
+           "correctOption": "optionC"
     },
 
     {
@@ -170,7 +170,7 @@
          "optionB": "Missouri",
          "optionC": "Oklahoma",
          "optionD": "Berlin",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -179,7 +179,7 @@
          "optionB": "Sevene",
          "optionC": "Four",
          "optionD": "Five",
-         "correctOption": " "optionA""
+           "correctOption": "optionA"
     },
 
     {
@@ -188,7 +188,7 @@
          "optionB": "Seven",
          "optionC": "Nine",
          "optionD": "Eight",
-         "correctOption": " "optionD""
+           "correctOption": "optionD"
     },
 
     {
@@ -197,7 +197,7 @@
          "optionB": "Mercury",
          "optionC": "Earth",
          "optionD": "Venus",
-         "correctOption": " "optionB""
+           "correctOption": "optionB"
     },
 
     {
@@ -206,7 +206,7 @@
          "optionB": "Ears",
          "optionC": "Fingers",
          "optionD": "Nose",
-         "correctOption": " "optionB""
+           "correctOption": "optionB"
     },
 
     {
@@ -215,7 +215,7 @@
          "optionB": "Two",
          "optionC": "Three",
          "optionD": "Four",
-         "correctOption": " "optionC""
+           "correctOption": "optionC"
     },
 
     {
@@ -224,7 +224,7 @@
          "optionB": "30",
          "optionC": "32",
          "optionD": "36",
-         "correctOption": " "optionC""
+           "correctOption": "optionC"
     }
 
 ]
