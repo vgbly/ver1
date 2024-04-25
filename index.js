@@ -11,7 +11,7 @@ function fetchJSONData() {
                     return res.json();
                 })
                 .then((data) => {
-                            alert(data.topic);
+                            //alert(data.topic);
                     questions = data.qlist;
                     //alert(data.users[0].site);
                     //console.log(data);
