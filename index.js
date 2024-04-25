@@ -1,4 +1,4 @@
-const questions;
+let questions;
 //const questions = general;
 //Get right JSON file
 function fetchJSONData() {
