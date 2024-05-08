@@ -4,32 +4,58 @@
   <title>Glossary</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
+<style> 
+#rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 100px;  
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 100px;  
+}
+
+#rcorners3 {
+  border-radius: 25px;
+  background: url(./html/img/paper.gif);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px; 
+  width: 200px;
+  height: 100px;  
+}
+
+a {
+	text-decoration:none;
+	text-align: center;
+}
+h2 {
+	color: black;
+}
+</style>
+<!--  
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+ -->
 </head>
 <body>
 
-<div class="container">
-    <div class="card-deck flex-row flex-nowrap">
-        <a href="./html/cnelagr.html">
-        <div class="card bg-primary m-2" style="width: 300px;">
-        <div class="card-body">
-            <h2 class="card-title text-white">ELA Grammer</h2>
-            <p class="card-text text-white">CN Glossary</p>
-        </div>
-        </div>
-        </a>
-        <a href="./html/cna1.html">
-        <div class="card bg-success m-2" style="width: 300px;">
-        <div class="card-body">
-            <h2 class="text-white">Algebra I</h2>
-            <p class="text-white">CN Glossary</p>
-        </div>
-        </div>
-        </a>
-    </div><!-- END CARD DECK -->
-</div><!-- END CONTAINER -->
+<a href="./html/cna1.html">
+	<h2 id="rcorners1">Algebra I</br>CN Glossary</h2>
+</a>
+<a href="./html/cnelagr.html">
+	<h2 id="rcorners2">ELA Grammer</br>CN Glossary</h2>
+</a>
+<a href="./html/nh.html">
+	<h2 id="rcorners3">8th Grade Science</br>Natural History Book</h2>
+</a>
 
 </body>
 </html>
