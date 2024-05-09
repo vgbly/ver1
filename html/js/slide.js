@@ -23,7 +23,7 @@ function NextQuestion(index) {
     //alert(index);
     //handleQuestions();
     const current = shuffledGlossary[index];
-    document.getElementById("word").innerHTML = current.word;
+    document.getElementById("word").innerHTML = current.id + " - " + current.word;
     //document.getElementById("desc").innerHTML = current.desc;
     holddesc = current.desc;
     //indexNum =indexNum++;
@@ -33,7 +33,7 @@ function NextQuestion(index) {
 function onClickNext() {
 	holddesc = "";
 	document.getElementById("desc").innerHTML = "Check!";
-	document.getElementById("show").disabled = false;
+	//document.getElementById("show").disabled = false;
     indexNum++;
     NextQuestion(indexNum);
     buttonEnable();
@@ -44,7 +44,7 @@ function onClickNext() {
 function onClickPrevious() {
 	holddesc = "";
 	document.getElementById("desc").innerHTML = "Click!";
-	document.getElementById("show").disabled = false;
+	//document.getElementById("show").disabled = false;
     indexNum--;
     NextQuestion(indexNum);
     buttonEnable();
@@ -66,5 +66,13 @@ function buttonEnable() {
 
 function showDesc() {
 	document.getElementById("desc").innerHTML = holddesc;
-	document.getElementById("show").disabled = true;
+	//document.getElementById("show").disabled = true;
 }
+
+function myFunction() {
+	  let text = "";
+      for (let i = 0; i < shuffledGlossary.length; i++) {
+      text += shuffledGlossary[i].id + " - " +shuffledGlossary[i].word + "<br>";
+    }
+     document.getElementById("data1").innerHTML = text;
+  }

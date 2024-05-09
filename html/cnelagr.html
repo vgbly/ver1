@@ -4,16 +4,21 @@
   <title>Glossary</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <style type="text/css">
+  p {
+  		background-color: #3388FF ;
+  		color: white;
+	}
+  </style>
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body onload="NextQuestion(0)">
-
 <div class="jumbotron text-center">
   <a href="../index.html"><img src="./img/home.png" alt="Home" width="50" height="auto"></a>
   <h1 id="word">My First Bootstrap Page</h1>
-  <p id="desc">Check!</p> 
+  <p id="desc"  onclick="showDesc()">Check!</p> 
 </div>
 <div class="container">
   <div class="row">
@@ -22,9 +27,6 @@
       <p id="desc">b</p>
     </div> -->
     <table class="table">
-    	<thead>
-    		<td align="center"><button type="button" id="show" class="btn btn-primary" onclick="showDesc()">Check</button></td>
-    	</thead>
         <thead>
             <td><button type="button" id="preB" class="btn btn-primary" onclick="onClickPrevious()">Previous</button></td>
             <td align="right"><button id="nextB"  type="button" class="btn btn-primary" onclick="onClickNext()">Next</button></td>
@@ -35,14 +37,5 @@
 </div>
  <script src="./jsdata/cnelagr.js"></script>
  <script src="./js/slide.js"></script>
- <script>
-  let text = "";
-  function myFunction() {
-      for (let i = 0; i < shuffledGlossary.length; i++) {
-      text += shuffledGlossary[i].word + "<br>";
-    }
-     document.getElementById("data1").innerHTML = text;
-  }
-</script>
 </body>
 </html>
