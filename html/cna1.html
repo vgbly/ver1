@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Glossary</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <style type="text/css">
+  p {
+  		background-color: #CD8BFE ;
+  		color: black;
+	}
+  </style>
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body onload="NextQuestion(0)">
+<div class="jumbotron text-center">
+  <a href="../index.html"><img src="./img/home.png" alt="Home" width="50" height="auto"></a>
+  <h1 id="word">My First Bootstrap Page</h1>
+  <p id="desc"  onclick="showDesc()">Check!</p> 
+</div>
+<div class="container">
+  <div class="row">
+   <!-- <div class="col-sm-4">
+      <h3 id="word">a</h3>
+      <p id="desc">b</p>
+    </div> -->
+    <table class="table">
+        <thead>
+            <td><button type="button" id="preB" class="btn btn-primary" onclick="onClickPrevious()">Previous</button></td>
+            <td align="right"><button id="nextB"  type="button" class="btn btn-primary" onclick="onClickNext()">Next</button></td>
+        </thead>
+    </table>
+  </div>
+  <div id="data1" onclick="myFunction()">Data</div>
+</div>
+<script id="myscript" src="./jsdata/cna1.js"></script> 
+<script src="./js/slide.js"></script>
+</body>
+</html>
