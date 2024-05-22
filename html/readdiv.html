@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<div 
+  id="ldBar"
+  class="ldBar label-center"
+  data-value="0"
+  data-preset="stripe"
+  data-aspect-ratio="none"
+  style="width:100%; display: block;" 
+onclick="readDiv()">What is div data</div>
+
+<script>
+function showDetails(animal) {
+  let animalType = animal.getAttribute("data-animal-type");
+  alert("The " + animal.innerHTML + " is a " + animalType + ".");
+}
+</script>
+</head>
+<body>
+
+<h1>Species</h1>
+<p>Click on a species to see what type it is:</p>
+
+<ul>
+  <li onclick="showDetails(this)" id="owl" data-animal-type="bird">Owl</li>
+  <li onclick="showDetails(this)" id="salmon" data-animal-type="fish">Salmon</li>  
+  <li onclick="showDetails(this)" id="tarantula" data-animal-type="spider">Tarantula</li>  
+</ul>
+
+<script type="text/javascript">
+function readDiv() {
+	const ldBar = document.getElementById("ldBar")
+	console.log(
+	  ldBar.dataset.value,
+	  ldBar.dataset.preset,
+	  ldBar.dataset.aspectRatio // Note the conversion to camelCase
+	);
+	ldBar.dataset.value = "5";
+}
+</script>
+</body>
+</html>

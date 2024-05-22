@@ -1,0 +1,42 @@
+[
+	{
+		"id": "N1",
+		"word": "volatile (vol-uh-tl or vol·​a·​tile)",
+		"desc": "(noun) 1. a volatile substance, as a gas or solvent.</br> (adjective)1. evaporating rapidly; passing off readily in the form of vapor. </br> 2. likely to change suddenly and unexpectedly, especially by getting worse: Food and fuel prices are very volatile in a war situation."
+	},
+	{
+		"id": "N2",
+		"word": "Volatile (vis·cos·i·ty)",
+		"desc": "the state of being thick, sticky, and semifluid in consistency, due to internal friction. </br>a measure of a fluid's resistance to flow."
+	},
+	{
+		"id": "N3",
+		"word": "anagram (an·​a·​gram)",
+		"desc": "a word or phrase made by transposing the letters of another word or phrase. The word \"secure\" is an anagram of \"rescue.\""
+	},
+	{
+		"id": "N4",
+		"word": "lexicography (lex·​i·​cog·​ra·​phy)",
+		"desc": "the editing or making of a dictionary. Lexical order, also known as lexicographic. Lexicographical ordering means dictionary order. For ex: In dictionary 'ado' comes after 'adieu' because 'o' comes after 'i' in English alphabetic system. This ordering is not based on length of the string, but on the occurrence of the smallest letter first.  "
+	},
+	{
+		"id": "N5",
+		"word": "radical expression",
+		"desc": "<img src='./img/radical.png' width='400' hight='auto'> "
+	},
+	{
+		"id": "N6",
+		"word": "correlation coefficient",
+		"desc": "The Pearson product-moment correlation coefficient is a statistic that is used to estimate the degree of linear relationship between two variables. It is a numerical estimate of both the strength of the linear relationship and the direction of the relationship. The Pearson product-moment correlation coefficient is calculated when the scale of measurement is interval or ratio; it is also used on approximately interval data. This statistic is typically referred to as the \"correlation\" or \"correlation coefficient\". </br> The correlation coefficient ranges in value between -1.0 and +1.0. To interpret the correlation coefficient, we must consider both its sign (positive or negative) and its absolute value. A perfect positive correlation has a coefficient of 1.0; a perfect negative correlation has a coefficient of -1.0. When there is no association between two variables, the correlation coefficient has a value of 0. </br> <img src='./img/cc.png' width='400' hight='auto'> "
+	},
+	{
+		"id": "N7",
+		"word": "Quadratic Formula",
+		"desc": "<img src='./img/qf.webp' width='400' hight='auto'> "
+	},
+	{
+		"id": "N8",
+		"word": "Rate of Change",
+		"desc": "A rate of change is simply how fast something is changing in relation to something else. </br> speed is change in distance over time </br> acceleration is change of speed over time </br> jerk is change of acceleration over time </br> Snap(jounce), Crackle and Pop come after that"
+	}
+]

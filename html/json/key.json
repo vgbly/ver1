@@ -1,0 +1,65 @@
+[
+	{
+		"root": "Y",
+		"patternid": "A",
+		"sourceid": "cna1",
+		"source": "Cliffs Notes",
+		"topic": "Algebra I Glossary",
+		"tilename": "Algebra I Glossary",
+		"tileclass": "rcorners1"
+	},
+	{
+		"root": "Y",
+		"patternid": "B",
+		"sourceid": "cngr",
+		"source": "Cliffs Notes",
+		"topic": "English Grammar Glossary",
+		"tilename": "English Grammar Glossary",
+		"tileclass": "rcorners1"
+	},
+	{
+		"root": "Y",
+		"patternid": "C",
+		"sourceid": "nh",
+		"source": "8th Grade Science",
+		"topic": "The Natural History Book. The Ultimate Visual Guide to Everything on Earth",
+		"tilename": "Natural History Book",
+		"tileclass": "rcorners3"
+	},
+	{
+		"root": "Y",
+		"patternid": "D",
+		"sourceid": "cnan",
+		"source": "Cliffs Notes",
+		"topic": "Anatomy & Physiology Glossary",
+		"tilename": "Anatomy & Physiology Glossary",
+		"tileclass": "rcorners1"
+	},
+	{
+		"root": "Y",
+		"patternid": "E",
+		"sourceid": "cnch",
+		"source": "Cliffs Notes",
+		"topic": "Chemistry Glossary",
+		"tilename": "Chemistry Glossary",
+		"tileclass": "rcorners1"
+	},
+	{
+		"root": "Y",
+		"patternid": "N",
+		"sourceid": "notes",
+		"source": "Study",
+		"topic": "Notes & Study Material",
+		"tilename": "Notes & Study Material",
+		"tileclass": "rcorners4"
+	},
+	{
+		"root": "Y",
+		"patternid": "J",
+		"sourceid": "java",
+		"source": "Online",
+		"topic": "Java Glossary",
+		"tilename": "Java",
+		"tileclass": "rcorners6"
+	}
+]

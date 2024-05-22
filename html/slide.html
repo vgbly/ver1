@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Glossary</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" href="./css/slide.css">
+ <link rel="stylesheet"
+	href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<!-- Include the Bootstrap Table CSS for the table -->
+<link rel="stylesheet"
+	href="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
+</head>
+<!--  <body onload="NextQuestion(0)">  -->
+<body>
+<!-- ---------------------------------------- -->
+<div class="container">
+  <table class="table table-striped text-center max-width  table-bordered">
+    <thead>
+      <tr class="table-primary">
+        <td align="left" width="33%">
+        	<a onclick="popupCenter('./key.html?page=key', 'myPop1',700,500);" href="javascript:void(0);">
+				<img class="imgradius" src="./img/key.jpg" width="30" height="auto">
+			</a>
+		</th>
+        <td align="center" width="33%">
+        	<a href="../index.html"><img  class="imgradius" src="./img/home.png" alt="Home" width="30" height="auto"></a>
+        </th>
+        <td align="right" width="33%"><a id="slidedataurl" href="" target=”_blank”>For Test</a></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="3" class="bg-primary"><b id="subject"  style="color:white" >Topic</b></td>
+      </tr>
+      <tr>
+        <td id="word" colspan="3" class="tdcolor"><div onclick="NextQuestion(0)">Start</br></div></td>
+      <tr>
+        <td colspan="3" class="table-info descstyle" style="height:200px" onclick="showDesc()">
+			<p id="desc" >Check!</p>
+		</td>
+      </tr>
+      <tr>
+        <td align="left"><button type="button" id="preB" class="btn btn-primary" onclick="onClickPrevious()">Previous</button></td>
+        <td >&nbsp;</td>
+        <td align="right"><button id="nextB"  type="button" class="btn btn-primary" onclick="onClickNext()">Next</button></td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td  class="rcorners5"><div id="listdata" data-value="0" onclick="listData()">List All</div></td>
+        <td align="left">&nbsp;</td>
+      </tr>
+      <tr>
+	      <td colspan="3">
+	        <table  id="list" class="table-striped border-success table-secondary table-bordered"  width="100%">
+				<thead>
+					<tr class="text-left">
+				        <th data-field="id"><span class="text-success">ID</span></th>
+					<th data-field="word"><span class="text-success">
+							Glossary</span></th>
+					<th data-field="desc"><span class="text-success">
+							Description </span></th>
+	      			</tr>
+				</thead>
+			</table>
+		  </td>
+      </tr>
+    </tbody>
+  </table>
+ </div>
+ <div id="dummydata" data-value="0"></div> <!-- very important, store slide data before start -->
+<!-- ------------------------------------------- -->
+
+<!-- Include jQuery and other required files for Bootstrap -->
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script
+		src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+	<!-- Include the JavaScript file 
+  for Bootstrap table -->
+	<script
+		src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
+<script src="./js/slide.js"></script>
+</body>
+</html>

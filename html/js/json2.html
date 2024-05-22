@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div id="id01"></div>
+<div id="id02"></div>
+<div id="id03"></div>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+var url = "jsonTest.json";
+
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myArr = JSON.parse(this.responseText);
+    alert("I am ok");
+    myFunction(myArr);
+  }
+};
+xmlhttp.open("GET", url, true);
+xmlhttp.send();
+
+var k = "";
+function myFunction(arr) {
+	document.getElementById("id02").innerHTML = arr.length;
+	k = arr[3].display + " " + arr[3].url;
+  var out = "";
+  var i;
+  for(i = 0; i < arr.length; i++) {
+    out = out + "<a href=\"" + arr[i].url + "\">" + 
+    arr[i].display + "</a><br>";
+    //out = out + " " + arr[i].display + " " + arr[i].url;
+  }
+  document.getElementById("id01").innerHTML = out;
+  dis3();
+}
+
+alert("K is =" +k);
+//dis3();
+function dis3() {
+	document.getElementById("id03").innerHTML = k;
+}
+</script>
+<!-- https://www.w3schools.com/js/js_json_http.asp -->
+</body>
+</html>

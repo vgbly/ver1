@@ -10,9 +10,11 @@
   		color: black;
 	}
   </style>
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+ <link rel="stylesheet"
+	href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<!-- Include the Bootstrap Table CSS for the table -->
+<link rel="stylesheet"
+	href="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
 </head>
 <body onload="NextQuestion(0)">
 <div class="jumbotron text-center">
@@ -33,8 +35,33 @@
         </thead>
     </table>
   </div>
-  <div id="data1" onclick="myFunction()">Data</div>
+  <div id="data1" onclick="myFunction()">List</br>
+  	<table id="list" class="table-striped border-success" display="none">
+			<thead>
+				<tr>
+					<th data-field="id"><span class="text-success">ID</span></th>
+					<th data-field="word"><span class="text-success">
+							Glossary</span></th>
+					<th data-field="desc"><span class="text-success">
+							Description </span></th>
+				</tr>
+			</thead>
+		</table>
+  
+  </div>
 </div>
+<!-- Include jQuery and other required 
+  files for Bootstrap -->
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script
+		src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+	<!-- Include the JavaScript file 
+  for Bootstrap table -->
+	<script
+		src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
 <script id="myscript" src="./jsdata/cna1.js"></script> 
 <script src="./js/slide.js"></script>
 </body>

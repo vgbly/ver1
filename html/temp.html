@@ -1,0 +1,34 @@
+<div class="jumbotron text-center">
+  <a href="../index.html"><img src="./img/home.png" alt="Home" width="50" height="auto"></a>
+  <h1 id="word">Click Start Button to Start</h1>
+  <p id="desc"  onclick="showDesc()">Check!</p> 
+</div>
+<div class="container">
+  <div class="row">
+   <!-- <div class="col-sm-4">
+      <h3 id="word">a</h3>
+      <p id="desc">b</p>
+    </div> -->
+    <table class="table">
+        <thead>
+            <td><button type="button" id="preB" class="btn btn-primary" onclick="onClickPrevious()">Previous</button></td>
+            <td align="right"><button id="nextB"  type="button" class="btn btn-primary" onclick="onClickNext()">Next</button></td>
+        </thead>
+    </table>
+  </div>
+  <div id="listdata" onclick="listData()">List</br>
+  	<table id="list" class="table-striped border-success" display="none">
+			<thead>
+				<tr>
+					<th data-field="id"><span class="text-success">ID</span></th>
+					<th data-field="word"><span class="text-success">
+							Glossary</span></th>
+					<th data-field="desc"><span class="text-success">
+							Description </span></th>
+				</tr>
+			</thead>
+		</table>
+  
+  </div>
+</div>
+<div id="dummydata" data-value="0"></div>

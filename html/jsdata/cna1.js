@@ -432,7 +432,7 @@ const glossary = [
 	{
 		id: "A87",
 		word: "quadratic formula",
-		desc: "a method of solving quadratic equations using the formula <img src=\".\/img/qf.png\" width=\"250\" height=\"auto\">"
+		desc: "a method of solving quadratic equations using the formula <img src='./img/qf.png' width='250' height='auto'>"
 	},
 	{
 		id: "A88",
