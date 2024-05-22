@@ -1,0 +1,122 @@
+abstract: a keyword used in a class or method definition, which specifies that the method/class is not going to be instantiated, but should be inherited by other methods or classes.
+API:(Application Programming Interface) – is the way to expose a set of pre-defined classes and interfaces to external clients to interact with them, without sharing the implementation details
+argument: an input specified in a method call; it can be a literal value, a variable, or an expression - void fooMethod(int argument1);
+array: a fixed-size collection of data of the same type, which can hold zero or more items - int[] array = new int[16];
+autoboxing: automatic conversion between the primitive types and their corresponding object wrapper classes.
+block: code between two matching open and close braces, which is the single logical unit of work inside the application - { some code }
+boolean: a primitive type, holding only two values – true or false boolean condition = false;
+break: a statement used to exit a loop/switch statement/labeled block; the application continues execution with the statement immediately following the containing block
+byte: a primitive type of the size of eight bits - byte b = 100;
+bytecode: the instruction set for Java Virtual Machine, created from source files into bytecode by the compiler
+case: a keyword that defines a particular group of statements executed in a switch statement
+casting: conversion from one data type to another
+catch: the block of code inside try/catch statement, responsible for handling exceptions
+char: a keyword used to declare a variable of single type character - char a = 'a';
+checked exception: an Exception that is caught at the compilation time, usually in the block or thrown in the method header
+class: the core type in Java that defines the implementation of a particular kind of object; it defines instance and class variables and methods, as well as specifies the interfaces it implements and the immediate superclass of the class, by default Object - public class Foo {}
+class method: a synonym of static class
+class variable: a synonym of a static field or a static variable
+classpath: an environment variable or a command-line argument indicating the path searched by the Java compiler and the runtime for class definitions
+comment: a piece of explanatory text ignored by the compiler
+compiler: a program used to translate source code into the code executed by a computer
+concurrency: it is the ability of a program to run several tasks in parallel, a primary feature of multithreading
+condition: a boolean expression controlling a conditional statement or loop - if (condition) {}
+constant: a final variable in Java, which means that the reference of it cannot be changed once initialized - final int number = 20;
+constructor: a method inside the class, which creates and initializes objects in it – needs to be public and names the same as the class
+continue: a keyword used to resume application execution at the end of the current loop
+curly brackets: please refer to block
+declaration :officially, this is defined as a statement that establishes an identifier and associates attributes with it, without necessarily reserving its storage or providing the implementation
+default: the optional destination used in a switch statement, when neither case statement matches the requested behavior
+definition: a declaration that reserves storage (for data) or provides an implementation (for methods)
+deprecation: a class/method/interface that has been made obsolete by later versions of the library or of the language itself; it should not be used as there is no guarantee that it will exist in future versions
+direct recursion: a recursion that starts in the stack of the calling method itself
+do: a keyword used to declare a while loop ensuring execution of the first iteration of the loop before the check of the boolean condition
+DOM: Document Object Model, defined by the W3C, that allows applications to dynamically access and update the content, structure, and style of documents
+downcast: a process of changing the data type from Object to the particular type, i.e., Integer
+else: a keyword used in if/else condition statements, executed when the test condition is false
+encapsulation: the process of protecting the state of objects by defining its attributes as private and channeling access to them through accessor and mutator methods
+enum: a Java keyword used to declare the enumerated type (whose values are a fixed set of constants)
+exception: an exceptional circumstance preventing the program to continue working regularly (usually an error or bug); here are some best practices to deal with and further understand exceptions in Java
+expression: a combination of operands and operators which causes particular behavior and produces results
+extends: a keyword used to define the inheritance of classes or interfaces
+field: a variable defined outside of all defined methods, but inside of the class; in other words, a member of a class
+final: a Java keyword indicating that an entity is immutable, thus, you can’t change its reference during the program execution - final int number = 20;
+finally: a block in a try/catch statement executed even Java exception or runtime error occurred
+float: a Java keyword used to define a floating point number variable - float cash = 24.5;
+for: a Java control structure used for loop execution
+garbage collection: the process by which the JVM automatically frees up unused memory; to go further into the GC process and potential problems in that process, you can read the deep-dive into memory leaks here
+global variable: a variable that is visible to all methods in the class
+GUI: graphical user interface
+hash code: a value used to provide an efficient way to map object and its location, returned by a hash function
+hash function: a method used to produce hash code from any data of arbitrary size to data of fixed size
+hexadecimal: a number represented by the base of 16
+HTML: HyperText Markup Language; a web content presentation language
+HTTP(S): HyperText Transfer Protocol (Secure); a protocol that defines all rules how the browser should communicate with a server
+identifier: a name of a class, variable, method or interface defined in the code by the software developer - String identifier = \"Some string\";
+if: a Java control structure used to choose if execution of further actions should continue or not
+immutable object: an object whose state or value is not changeable after creation
+implements: a Java keyword used to indicate which interfaces are implemented by the current class
+import: a statement used to enable the use of other classes or interfaces from different Java packages - import java.util.*;
+indirect recursion: a recursion that happens when method A calls method B while a call from the method B to the method A is still in progress
+infinite recursion: a recursion that can technically continue indefinitely; it very often indicates a logic error and can lead to StackOverflow errors
+inheritance: a feature of object-oriented programming, where classes contain all variables and methods defined in their supertypes
+int: a Java primitive of the type integer - int number = 10;
+interface: a Java keyword used to define the collection of methods and constant values that can be furthermore implemented by other classes
+iteration: a single execution of a loop
+JAR: Java Archive is the default Java packaging mechanism to aggregate multiple files into one (similar to .zip)
+Java Core: provides the main features of Java, also named Java Standard Edition
+Java EE: Java Enterprise Edition
+JDK: Java Development Kit, the environment and core libraries used to write Java programs
+JVM: Java Virtual Machine, the abstract machine where the compiled Java bytecode is executed
+livelock :a situation when two separate threads are waiting for each other to check the condition of particular part of the program
+local variable: a variable defined in the method body, visible only inside it
+long: a Java primitive of the type long - long bigNumber = 100L;
+main method: a starting point for Java applications - public static void main(String[] args){}
+memory leak: a situation during the program execution where memory that is no longer being used cannot be removed by the garbage collector as there is still a reference to it; it eventually leads to OutOfMemoryException
+method :a particular function implemented in a Java class - public int doSthAndReturnInt();
+module: a group of program components; in Java, the term that’s used for it is package
+multithreaded: a program capable of concurrent execution on multiple threads
+mutual recursion: this happens when two methods are calling each other recursively at the same time
+namespace: an area of the program defined by packages, with established certain visibility rules (e.g. private access, public access, etc.)
+native: a keyword indicating that particular method is not implemented in Java language itself, but in another programming language
+nested class: a class, which is implemented inside the body of the other class
+new: the operator used to create an instance of a class
+null: a type indicating that object reference variable has no reference to any object existing in memory
+object: an instance of a particular class; also the core concept of the OOP
+OOP: Object Oriented Programming – a primary paradigm in modern software development, focused on objects as primitives, not the specific actions; each object is created/instantiated from a class
+operator: a symbol used for arithmetic or boolean expressions, e.g. +,-,/,*,=
+operator precedence: the order of processing conditions or equations with the multiple operators, similar to the mathematical concept of order of operations
+overloading: using the same method name for various implementation, differentiated by parameters
+overriding: providing a different implementation of the original method in its subclass
+package: a name for a grouping of classes and interfaces in a namespace
+primitive type: one of the following non-class variable type - boolean, byte, char, double, float, int, long or short
+private: a Java modifier, used to specify the visibility of a method or a variable, so they can be accessed only within its class
+protected: another modifier that makes variables or classes accessible to all other elements in the same package
+public: a modifier allowing external access to a particular variable or method
+recursion: a process where a method is invoked again from its existing call stack
+reflection: the ability of the code to inspect and manipulate other code in the same runtime process
+return: a Java keyword used to finish the execution of the method and return data back to the caller
+scope: it determines the visibility of elements in the program, for example, local or global variables
+serialization: the process of encoding and decoding the objects to the stream of bytes, and vice-versa
+short: a keyword used to specify the variable of the type short - short num = 2;
+static: class member variable stored and accessed as a single instance for all objects of that class
+stream: a byte-stream of data sent from sender to receiver
+String: an instance of an immutable String class, containing zero or more Unicode characters - String myText = "Hello... It's me.";
+super: a keyword allowing the access to members of a class inherited by the class in which it appears
+switch: a control structure with multiple cases
+synchronized: a control statement that guarantees single-access semantics in a multithreaded environment
+this: a statement that references the instance of the class where it appears
+thread: a basic, single lightweight execution process supported natively by the JVM as well as by the OS
+throw: a statement used to throw an Exception
+throws: a keyword in a method header indicating that one or more exceptions will be propagated from this method
+unchecked exception: an error without handler defined in the program implementation, cannot be dealt with at compilation time
+Unicode: a 16-bit character set defined by ISO 10646, designed to make exchange and display of information easier across various languages
+URI, URL: Uniform Resource Identifier/Locator. You can read more about the difference between these two concepts here
+upcast: a process of casting to super type – for example from String to Object
+variable: an item of data associated with a specific type
+variable declaration: the place in the application, where the specific variable is assigned to one of the existing Java types
+virtual machine: see JVM
+void: a keyword used to indicate that method does not return any value
+volatile: a modifier specifying how the variable behaves in a multithreaded environment; the variable will never be cached in a thread-local – as it’s expected to be modified by different threads
+while: a Java control structure used for looping
+wrapper: an object that encapsulates primitive types into one of the classes from the java.lang package - Boolean, Byte, Character, Double, Float, Integer, Long or Short to provide additional methods

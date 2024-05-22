@@ -1,0 +1,148 @@
+acid:a compound that yields H<sup>+</sup> ions in solution or a solution in which the concentration of H<sup>+</sup> exceeding OH<sup>-</sup>.
+acid ionization constant:the equilibrium constant describing the degree of ionization of an acid.
+actinides:the row of elements below the periodic table, from thorium to lawrencium.
+alkali:synonym for base.
+alkali metals:the column of elements from lithium to francium.
+alkaline earths:the column of elements from beryllium to radium.
+alkane:a hydrocarbon without a double bond, triple bond, or ring structure.
+alkene:a hydrocarbon with one or more double bonds and no triple bond.
+alkyne:a hydrocarbon with one or more triple bonds.
+alpha particle:a cluster of 2 protons and 2 neutrons emitted from a nucleus in one type of radioactivity.
+anion:a chemical species with a negative charge.
+anode:the negative electrode at which oxidation occurs.
+aqueous:refers to a solution with water as solvent.
+aromatic:refers to an organic compound with a benzene-like ring.
+atom:the smallest amount of an element; a nucleus surrounded by electrons.
+atomic number:the number of protons in the nucleus of the chemical element.
+atomic weight:the weight in grams of one mole of the chemical element; approximately the number of protons and neutrons in the nucleus.
+Avogadro's law:equal volumes of gases at the same temperature and pressure that contain the same number of molecules.
+Avogadro's number:6.02 x 10<sup>23</sup>, the number of molecules in 1 mole of a substance.
+base: a compound that yields OH<sup>-</sup> ions in solution or a solution in which the concentration of OH<sup>-</sup> exceeds H<sup>+</sup>.
+beta particle:an electron emitted from a nucleus in one type of radioactivity.
+boiling point:the temperature at which a liquid changes to a gas.
+boiling point elevation:an increase in the boiling point of a solution, proportional to the concentration of solute particles.
+Boyle's law:the volume of a gas varies inversely with pressure.
+calorie:a unit of energy, equal to 4.184 joules.
+catalyst:a substance that accelerates a chemical reaction without itself being consumed.
+cathode:the electrode at which reduction occurs.
+cation:an atom or molecule with a positive charge.
+Charles' law:the volume of a gas varies directly with absolute temperature.
+chemical equation:a shorthand way of describing a chemical change using symbols of elements and formulas of compounds.
+chemical formula:a representation of a compound to show its composition using symbols and subscript numbers.
+compound:a substance formed by the chemical combination of two or more elements.
+concentration:the relative abundance of a solute in a solution.
+congeners:elements with similar properties, arranged in columns of the periodic table.
+conjugate:an acid and base that are related by removing or adding a single hydrogen ion.
+covalent bond:atoms linked together by sharing valence electrons.
+critical point:a point in a phase diagram where the liquid and gas states cease to be distinct.
+crystalline:the regular, geometric arrangement of atoms in a solid.
+decomposition:a chemical reaction in which a compound is broken down into simpler compounds or elements.
+dissociation:the separation of a solute into constituent ions.
+electrochemical:cell a device that uses a chemical reaction to produce an electric current.
+electrode:the point in an electrochemical cell at which reduction or oxidation occurs.
+electrolysis:the decomposition of a substance by an electric current.
+electrolyte:a substance that forms ions when dissolved in water.
+electromotive force:the electrical potential produced by a chemical reaction voltage.
+electron:a light subatomic particle with negative charge; found in orbitals surrounding an atomic nucleus.
+electronegativity:a number describing the attraction of an element for electrons in a chemical bond.
+element:a substance that cannot be decomposed; each chemical element is characterized by the number of protons in the nucleus.
+EMF:See electromotive force.
+endothermic:refers to a reaction that requires heat.
+energy:the concept of motion or heat required to do work.
+enthalpy:the thermodynamic quantity measuring the heat of a substance.
+entropy:the thermodynamic quantity measuring the disorder of a substance.
+equilibrium:a balanced condition resulting from two opposing reactions.
+equilibrium:constant the ratio of concentrations of products to reactants for a reaction at chemical equilibrium.
+exothermic:refers to a reaction that releases heat.
+faraday:a unit of electric charge equal to that on 1 mole of electrons.
+Faraday's laws:two laws of electrolysis relating the amount of substance to the quantity of electric charge.
+fluid:a liquid or gas.
+free energy:the thermodynamic quantity measuring the tendency of a reaction to proceed; also called Gibbs free energy.
+freezing point:the temperature at which a liquid changes to a solid.
+freezing point depression:the decrease in freezing point of a solution, proportional to the concentration of solute particles.
+fusion:melting.
+gas:a state of matter in which molecules are widely separated, fluid, expandable, and compressible.
+gas constant:R equals 0.082 liter-atmospheres per mole-degree.
+gram formula:weight an amount of a substance equal in grams to the sum of the atomic weights.
+ground state:the electronic configuration of lowest energy for an atom.
+group:a column of elements in the periodic table.
+half-reaction:an oxidation or reduction reaction with free electrons as a product or reactant.
+halogens:the column of elements from fluorine to astatine.
+heat:a form of energy that spontaneously flows from a warm body to a cold body.
+heat capacity:the amount of energy needed to raise the temperature of a substance by one degree Celsius.
+hydrocarbon:an organic compound containing only carbon and hydrogen.
+hydrogen bond:a weak, secondary bond between a partially positive hydrogen atom and a partially negative N, O, or F atom. An inter-molecular force of attraction.
+hydroxide:refers to the OH<sup>-</sup> ion.
+ideal gas equation:the equation relating the volume of a gas to its pressure, temperature and moles of gas.
+inert gases:the column of elements from helium to radon; also called noble gases.
+ion:an atom with an electric charge due to gain or loss of electrons.
+ionic bond:atoms linked together by the attraction of unlike charges.
+ionization:adding or subtracting electrons from an atom; alternatively, the dissociation of a solute into ions.
+isoelectronic:refers to several dissimilar atoms or ions with identical electronic configurations.
+isomers:several molecules with the same composition but different structures.
+isotope:a variety of an element characterized by a specific number of neutrons in the nucleus.
+joule:a unit of energy equal to 0.239 calorie.
+lanthanides:the row of elements beneath the periodic table, from cerium to lutetium; also called rare earths.
+Le Chatelier's principle:a system that in equilibrium is disturbed adjusts so as to minimize the disturbance.
+liquid:a state of matter in which the molecules are touching, fluid, incompressible.
+litmus:an indicator that turns red in acid and blue in alkaline solution.
+melting point:the temperature at which a solid changes to a liquid.
+metallic bond:atoms linked together by the migration of electrons from atom to atom.
+metals:the elements in the middle and left parts of the periodic table, except for hydrogen.
+molality:the number of moles of solute in 1 kilogram of solvent.
+molarity:the number of moles of solute in 1 liter of solution.
+molar heat capacity:the amount of heat required to raise the temperature of 1 mole of substance 1 degree Celsius.
+mole:an amount of a substance equal in grams to the sum of the atomic weights.
+mole fraction:the fraction of moles (or molecules) of one substance in the total moles (or molecules) of all substances in the mixture. If the mole fraction of substance A is 0.1, one-tenth of all the molecules in a mixture are A molecules.
+molecular formula:describes the ratio of elements in a molecule.
+molecule:a group of atoms linked together by covalent bonds.
+neutralization:the chemical reaction of an acid and base to yield a salt and water.
+neutron:a heavy subatomic particle with zero charge; found in an atomic nucleus.
+noble gases:the column of elements from helium to radon; also called inert gases.
+nonmetals:the elements in the upper right part of the periodic table, and also hydrogen.
+nucleon:a proton or neutron found in an atomic nucleus.
+nucleus:the core of an atom, containing protons and neutrons.
+orbital:a component of a subshell occupied by up to 2 electrons.
+organic:refers to compounds based on carbon.
+organic chemistry:an area of chemistry dealing principally with the chemistry of carbon.
+oxidation:the loss of electrons by a species.
+oxidation number:a signed integer representing the real or hypothetical charge on an atom.
+oxide:a compound of oxygen and another element.
+period:a horizontal row of elements in the periodic table.
+periodic table display:of the elements in order of atomic number with similar elements falling into columns.
+pH:a number describing the concentration of hydrogen ions in a solution. Equals -log[H<sup>+</sup>].
+phase:a substance with uniform composition and definite physical state.
+polar bond:a bond with both ionic and covalent characteristics.
+polyprotic:refers to an acid with several hydrogens that can ionize.
+precipitate:a solid that separates from solution.
+product:a substance on the right side of a chemical reaction.
+proton:a heavy subatomic particle with a positive charge; found in an atomic nucleus.
+radioactivity:the emission of subatomic particles from a nucleus.
+rare earths:the elements from cerium to lutetium; lanthanides.
+reactant:a substance on the left side of a chemical reaction.
+redox:refers to a reaction in which simultaneous reduction and oxidation occur.
+reduction:the gain of electrons by a species.
+salt:a solid compound composed of both metallic and nonmetallic elements, often as ions.
+saturated:describes a solution that holds as much solute as possible.
+shell:a set of electron orbitals with the same principal quantum number.
+solid:a state of matter in which the molecules are touching and possessing rigid shape and is not compressible.
+solubility:the upper limit of concentration of a solute.
+solubility product:the constant obtained by multiplying the ion concentrations in a saturated solution.
+solute:the substance that is dissolved in a solution.
+solution:a homogeneous mixture consisting of a solvent and one or more solutes.
+solvent:the host substance of dominant abundance in a solution.
+specific heat capacity:the amount of heat required to raise 1 gram of a substance 1 degree Celsius.
+standard temperature and pressure:0° and 1 atmosphere.
+states of matter:solid, liquid, and gas.
+stoichiometric:refers to compounds or reactions in which the components are in fixed, whole-number ratios.
+STP:See standard temperature and pressure.
+strong electrolyte:an acid, base, or salt that dissociates almost completely to ions in aqueous solution.
+structural formula:depicts the bonding of atoms in a molecule.
+sublimation:the transformation of a solid directly to a gas without an intervening liquid state.
+subshell:a set of electron orbitals with the same principal and second quantum number; for example, 2p, 3s, and so on.
+symbol:an abbreviation for the name of an element; for example, C for carbon.
+transition metals:the three rows of elements in the middle of the periodic table, from scandium to mercury.
+triple point:a point in a phase diagram where the three states of matter are in equilibrium.
+valence:a signed integer describing the combining power of an atom.
+valence electrons:the outermost shell of electrons in an atom or ion.
+weak electrolyte:an acid, base, or salt that dissociates only slightly to form ions in solution.

@@ -1,0 +1,127 @@
+abscissa:the distance along the horizontal axis in a coordinate graph.
+absolute value:the numerical value when direction or sign is not considered. The symbol for absolute value is ∣ ∣.
+additive axiom of equality:if a = b and c = d, then a + c = b + d.
+additive axiom of inequality:if a > b, then a + c > b + c.
+additive inverse:the opposite (negative) of a number. Any number plus its additive inverse equals 0.
+algebra:arithmetic operations using letters and/or symbols in place of numbers.
+algebraic expressions:expressions composed of letters to stand for numbers.
+algebraic fractions:fractions using a variable in the numerator and/or denominator.
+ascending order:basically, when the power of a term increases for each succeeding term.
+associative property:grouping of elements does not make any difference in the outcome. Only true for multiplication and addition.
+axioms of equality:basic rules for using the equal sign.
+binomial:an algebraic expression consisting of two terms.
+braces:grouping symbols used after the use of brackets. Also used to represent a set. { }
+brackets:grouping symbols used after the use of parentheses. [ ]
+canceling:in multiplication of fractions, dividing the same number into both a numerator and a denominator.
+cartesian coordinates:a system of assigning ordered number pairs to points on a plane.
+closed half-plane:a half-plane that includes the boundary line and is graphed using a solid line and shading.
+closed interval:an interval that includes both endpoints or fixed boundaries.
+closure property:when all answers fall into the original set.
+coefficient:the number in front of a variable. For example, in 9x, 9 is the coefficient.
+common factors:factors that are the same for two or more numbers.
+commutative property:order of elements does not make any difference in the outcome. Only true for multiplication and addition.
+complex fraction:a fraction having a fraction or fractions in the numerator and/or denominator.
+composite number:a number divisible by more than just 1 and itself (such as 4, 6, 8, 9, . . . ). 0 and 1are not composite numbers.
+conjugate:the conjugate of a binomial contains the same terms, but the opposite sign between them. (x + y) and (x − y) are conjugates.
+coordinate axes:two perpendicular number lines used in a coordinate graph.
+coordinate graph:two perpendicular number lines, the x axis and the y axis, creating a plane on which each point is assigned a pair of numbers.
+coordinates:the numbers that correspond to a point on a coordinate graph.
+cube:the result when a number is multiplied by itself twice. Designated by the exponent 3 (such as x<sup>3</sup>).
+cube root:the number that when multiplied by itself twice gives you the original number. For example, 5 is the cube root of 125.
+denominator:everything below the fraction bar in a fraction.
+descending order:basically, when the power of a term decreases for each succeeding term.
+direct variation:when y varies directly as x or y is directly proportional to x.
+discriminant:the value under the radical sign in the quadratic formula. [b<sup>2</sup> − 4ac]
+distributive property:the process of distributing the number on the outside of the parentheses to each number on the inside. a(b + c) = ab + ac
+domain:the set of all first coordinates from the ordered pairs in a relation.
+element:a member of a set.
+empty set:a set with no members (a null set).
+equal sets:sets that have exactly the same members.
+equation:a balanced relationship between numbers and/or symbols. A mathematical sentence.
+equivalent sets:sets that have the same number of members.
+Euler circles:a method of pictorially representing sets.
+evaluate:to determine the value or numerical amount.
+exponent:a numeral used to indicate the power of a number.
+extremes:outer terms.
+factor:to find two or more quantities whose product equals the original quantity.
+finite:countable. Having a definite ending.
+F.O.I.L. method:a method of multiplying binomials in which first terms, outside terms, inside terms, and last terms are multiplied.
+function:a relation in which each element in the domain is paired with exactly one element in the range.
+graphing method:a method of solving simultaneous equations by graphing each equation on a coordinate graph and finding the common point (intersection).
+half-open interval:an interval that includes one endpoint, or one boundary.
+half-plane:the region of a coordinate graph on one side of a boundary line.
+identity element for addition:0. Any number added to 0 gives the original number.
+identity element for multiplication:1. Any number multiplied by 1 gives the original number.
+imaginary numbers:square roots of negative numbers. The imaginary unit is i.
+incomplete quadratic equation:a quadratic equation with a term missing.
+indirect variation or inverse variation:when y varies indirectly as x or y is indirectly proportional to x. That is, as x increases, y decreases and as y increases, x decreases. Also referred to as inverse or indirect proportion.
+inequality:a statement in which the relationships are not equal. The opposite of an equation.
+infinite:uncountable. Continues forever.
+integer:a whole number, either positive, negative, or zero.
+intersection of sets:the members that overlap (are in both sets).
+interval:all the numbers that lie within two certain boundaries.
+inverse relations:relations where the domain and the range have been interchanged—switching the coordinates in each ordered pair.
+linear equation:an equation whose solution set forms a straight line when plotted on a coordinate graph.
+literal equation:an equation having mostly variables.
+means:inner terms.
+monomial:an algebraic expression consisting of only one term.
+multiplicative axiom of equality:if a = b and c = d, then ac = bd.
+multiplicative inverse:the reciprocal of the number. Any number multiplied by its multiplicative inverse equals 1.
+negative multiplication property of inequality:reverse the inequality sign when multiplying (or dividing) by a negative number. If c < 0, then a > b if, and only if, ac < bc.
+nonlinear equation:an equation whose solution set does not form a straight line when plotted on a coordinate graph.
+null set:a set with no members (an empty set).
+number line:a graphic representation of integers and real numbers. The point on this line associated with each number is called the graph of the number.
+numerator:everything above the fraction bar in a fraction.
+numerical coefficient:the number in front of the variable.
+open half-plane:a half-plane that does not include the boundary line. If the inequality is a \">\" or \"<\", then the graph is an open half-plane.
+open interval:an interval that does not include endpoints or fixed boundaries.
+open ray:a ray that does include its endpoint (half line).
+ordered pair:any pair of elements (x, y) having a first element x and a second element y. Used to identify or plot points on a coordinate grid.
+ordinate:the distance along the vertical axis on a coordinate graph.
+origin:the point of intersection of the two number lines on a coordinate graph. Represented by the coordinates (0,0).
+polynomial:an algebraic expression consisting of two or more terms.
+positive multiplication property of inequality:if c > 0, then a > b if, and only if, ac > bc.
+proportion:two ratios equal to each other. For example, a is to c as b is to d.
+quadrants:four quarters or divisions of a coordinate graph.
+quadratic equation:an equation that could be written Ax2 + Bx + C = 0.
+quadratic formula:a method of solving quadratic equations using the formula <img src=\".\/img/qf.png\" width=\"250\" height=\"auto\">
+radical sign:the symbol used to designate square root.
+range:the set of all second (or y) coordinates from the ordered pairs in a relation.
+ratio:a method of comparing two or more numbers. For example, a--b. Often written as a fraction, a/b.
+real numbers:the set consisting of all rational and irrational numbers.
+reducing:changing a numerical or algebraic fraction into its lowest terms. For example, 2/4 is reduced to 1/2, or a/ab is reduced to 1/b.
+reflexive axiom of equality:for any number a, a = a.
+relation:any set of ordered pairs.
+repeating decimal:a decimal fraction that continues forever repeating a number or block of numbers.
+roster:a method of naming a set by listing its members.
+rule:a method of naming a set by describing its elements.
+set:a group of objects, numbers, and so forth.
+set builder notation:a formal method of describing a set. Often used for inequalities. For example, {x-- x > 1}, which is read \"x such that all x is greater than 1.\"
+simplify:to combine several or many terms into fewer terms.
+simultaneous equations (system of equations):a set of equations with the same unknowns (variables).
+slope of a line:the ratio of the change in y to the change in x in a linear equation (slope = rise/run).
+solution set (or solution):all the answers that satisfy the equation.
+square:the result when a number is multiplied by itself. Designated by the exponent 2 (such as x<sup>2</sup>).
+square root:the number that when multiplied by itself gives you the original number. For example, 5 is the square root of 25.
+subset:a set within a set.
+substitution method:a method of solving simultaneous equations that involves substituting one equation into another.
+symmetric axiom of equality:if a = b, then b = a.
+system of equations:simultaneous equations.
+term:a numerical or literal expression with its own sign.
+transitive axiom of equality:if a = b and b = c, then a = c.
+transitive axiom of inequality:if a > b and b > c, then a > c. Or if a < b and b < c, then a < c.
+trichotomy axiom of inequality:the only possible relationships between two numbers are - a > b, a = b, or a < b.
+trinomial:an algebraic expression consisting of three terms.
+union of sets:all the numbers in those sets.
+universal set:the general category set, or the set of all those elements under consideration.
+unknown:a letter or symbol whose value is not known.
+value:numerical amount.
+variable:a symbol used to stand for a number.
+variation:a relationship between a set of values of one variable and a set of values of other variables.
+Venn diagram:a pictorial description of sets.
+vinculum:a line placed over (sometimes under) a digit or group of digits in a repeating decimal fraction to show which digits are repeating.
+whole number:0, 1, 2, 3, and so on.
+x-axis:the horizontal axis in a coordinate graph.
+x-coordinate:the first number in the ordered pair. Refers to the distance on the x-axis (the abscissa).
+y-axis:the vertical axis in a coordinate graph.
+y-coordinate:the second number in the ordered pair. Refers to the distance on the y-axis (the ordinate).
