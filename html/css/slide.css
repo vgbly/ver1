@@ -1,5 +1,21 @@
 @charset "ISO-8859-1";
 
+article {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #0066ff;
+   color: #ffffff;
+   text-align: center;
+   font-size:16px;
+}
 .imgradius {
   border-radius: 50%;
   overflow: hidden;
@@ -46,7 +62,7 @@
 }
 
 .project-7 {
-    background-color:#ffffff00;
+    background-color:#ffffff;
 }
 
 .project-8 {
@@ -120,6 +136,10 @@
 a {
 	text-decoration:none;
 	text-align: center;
+}
+.acolor {
+	color: #ffffff;
+	font-size:18px;
 }
 h2 {
 	color: black;
