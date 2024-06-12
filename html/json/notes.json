@@ -88,5 +88,20 @@
 		"id": "N18",
 		"word": "whiplash",
 		"desc": "Whiplash is a neck injury due to forceful, rapid back-and-forth movement of the neck, like the cracking of a whip. Whiplash is commonly caused by rear-end car crashes. But whiplash also can result from sports accidents, physical abuse and other types of traumas, such as a fall."
+	},
+	{
+		"id": "N19",
+		"word": "Midpoint of a line segment",
+		"desc": "<img src='./img/mp.webp' width='400' hight='auto'>"
+	},
+	{
+		"id": "N20",
+		"word": "skwe lines",
+		"desc": "Two lines that do not intersect and are noncoplanar are <b>skew</b> lines."
+	},
+	{
+		"id": "N21",
+		"word": "Divide a line into multiple parts",
+		"desc": "In this formula, (x<sub>1</sub>, y<sub>1</sub>) is the endpoint where you're starting, (x<sub>2</sub>, y<sub>2</sub>) is the other endpoint, and k is the fractional part of the segment you want starting from the first point. Below is the formula. <br/><img src='./img/lp.jpg' width='400' hight='auto'>"
 	}
 ]
