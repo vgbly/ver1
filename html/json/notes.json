@@ -103,5 +103,30 @@
 		"id": "N21",
 		"word": "Divide a line into multiple parts",
 		"desc": "In this formula, (x<sub>1</sub>, y<sub>1</sub>) is the endpoint where you're starting, (x<sub>2</sub>, y<sub>2</sub>) is the other endpoint, and k is the fractional part of the segment you want starting from the first point. Below is the formula. <br/><img src='./img/lp.jpg' width='400' hight='auto'>"
+	},
+	{
+		"id": "N22",
+		"word": "types of polygons",
+		"desc": "In an equilateral polygon, all the sides have equal length. In an equiangular polygon, all the angles have equal measure. A regular polygon is both equilateral and equiangular."
+	},
+	{
+		"id": "N23",
+		"word": "locus (loci)",
+		"desc": "Sometimes there is more than one point or even many points that satisfy a set of conditions. The set of points is called a <b>locus</b> of points."
+	},
+	{
+		"id": "N24",
+		"word": "Isometric",
+		"desc": "of or having equal dimensions. <br/> Isometric drawing is a way to visually represent a three-dimensional object on a two-dimensional surface. It's a type of axonometric projection that uses parallel projection to show objects at the same size regardless of their distance from the viewer. An isometric drawing is a pictorial representation of an object in which all three dimensions are drawn at full scale. It is a type of 3D drawing that uses a 3D representation, but the angles between the axes are always 120 degrees and the proportions are maintained, giving the illusion of depth and space. "
+	},
+	{
+		"id": "N25",
+		"word": "Inductive reasoning/Deductive reasoning",
+		"desc": "Inductive reasoning allows you to discover new ideas based on observed patterns. It is the process of observing data, recognizing patterns, and making generalizations about those patterns. When you use inductive reasoning to make a generalization, the generalization is called a <b>conjecture</b>.<br/>(<b> Deductive reasoning can help explain why your conjectures are true.</b>) is a simple form of arriving at a conclusion by joining two or more pieces of information. It is a process of logical reasoning which processes two or more premises to arrive at a logical conclusion. Deductive reasoning does not depend on approximation or the concept of guessing. Deductive reasoning takes in a lot of premises or observations and confirms one premise with another premise to arrive at a conclusion. Deductive reasoning is often used to test the hypothesis and theorems.<br/>When you use Inductive reasoning you are generalizing from careful observation that something is probably true. when you use deductive reasoning you are establishing that, if a set of properties is accepted as true, something else must be true.     "
+	},
+	{
+		"id": "N26",
+		"word": "function rule",
+		"desc": "The rule that gives the nth term for a sequence is called the <b>function rule</b>. Rules that generate a sequence with a constant difference are <b>linear functions</b>. "
 	}
 ]
