@@ -107,7 +107,7 @@
 	{
 		"id": "N22",
 		"word": "types of polygons",
-		"desc": "In an equilateral polygon, all the sides have equal length. In an equiangular polygon, all the angles have equal measure. A regular polygon is both equilateral and equiangular."
+		"desc": "In an <b>equilateral</b> polygon, all the sides have equal length. In an <b>equiangular</b> polygon, all the angles have equal measure. A <b>regular</b> polygon is both equilateral and equiangular."
 	},
 	{
 		"id": "N23",
