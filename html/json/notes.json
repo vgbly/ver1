@@ -163,5 +163,11 @@
 		"id": "N34",
 		"word": "Four important points of triangles",
 		"desc": "Orthocenter (altitudes)<br/> Incenter (angle bisectors)<br/> Circumcenter (⊥ bisectors)<br/> Centroid (medians intersect) "
+	},
+	{
+		"id": "N35",
+		"word": "Euler Line Conjecture",
+		"desc": "The Orthocenter ,Circumcenter , and Centroid are the three points of concurrency that always lie on a line (collinear)."
 	}
+	
 ]
