@@ -128,5 +128,40 @@
 		"id": "N26",
 		"word": "function rule",
 		"desc": "The rule that gives the nth term for a sequence is called the <b>function rule</b>. Rules that generate a sequence with a constant difference are <b>linear functions</b>. "
+	},
+	{
+		"id": "N27",
+		"word": "interquartile, interquartile range, Outliers",
+		"desc": "Q2 is the Median <br/> Q1 - Median of lower half  <br/> Q3 - Median of upper half  <br/> IQR = Q3 - Q1  <br/> Outliers = a number not in the range [Q1 - 1.5(IQR), Q3 + 1.5(IQR)] "
+	},
+	{
+		"id": "N28",
+		"word": "Three Main Forms of Linear Equations",
+		"desc": "<img src='./img/le.png' width='600' hight='auto'> "
+	},
+	{
+		"id": "N29",
+		"word": "con·verse",
+		"desc": "1. opposite or contrary in direction, action, sequence, etc.; turned around. noun. <br/>2. something opposite or contrary. "
+	},
+	{
+		"id": "N30",
+		"word": "Conjecture",
+		"desc": "to guess, based on the appearance of a situation and not on proof. <br/>In mathematics, a conjecture is a conclusion or a proposition that is proffered on a tentative basis without proof."
+	},
+	{
+		"id": "N31",
+		"word": "Concurrence (Triangle)",
+		"desc": "<b>Angle Bisector Concurrency Conjecture</b><br/>The three angle bisectors of a triangle are Concurrent.<br/><b>Perpendicular Bisector Concurrency Conjecture</b><br/>The three perpendicular bisectors of a triangle are Concurrent.<br/><b>Altitude Concurrency Conjecture</b><br/>The three altitudes (or the lines containing the altitudes) of a triangle are Concurrent.<br/><b>Median Concurrency Conjecture</b>The three medians of a triangle are Concurrent. <br/><b>The point of concurrency of the three medians is the centroid.</b>"
+	},
+	{
+		"id": "N32",
+		"word": "Centroid Conjecture",
+		"desc": "The centroid of a triangle divides each median into two parts so that the distance from the centroid to the vertex is twice the distance from the centroid to the midpoint of the opposite side."
+	},
+	{
+		"id": "N34",
+		"word": "Four important points of triangles",
+		"desc": "Orthocenter (altitudes)<br/> Incenter (angle bisectors)<br/> Circumcenter (⊥ bisectors)<br/> Centroid (medians intersect) "
 	}
 ]
