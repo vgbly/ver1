@@ -168,6 +168,11 @@
 		"id": "N35",
 		"word": "Euler Line Conjecture",
 		"desc": "The Orthocenter ,Circumcenter , and Centroid are the three points of concurrency that always lie on a line (collinear)."
+	},
+	{
+		"id": "N36",
+		"word": "coterminal angles",
+		"desc": "Coterminal Angles are angles who share the same initial side and terminal sides. Finding coterminal angles is as simple as adding or subtracting 360° or 2π to each angle, depending on whether the given angle is in degrees or radians. For example, the coterminal angle of 45 is 405 and -315."
 	}
 	
 ]
